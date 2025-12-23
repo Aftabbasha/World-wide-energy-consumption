@@ -1,10 +1,10 @@
-# 🌍 World Energy SQL Analysis Project
+# World Energy SQL Analysis Project
 
 This project explores global energy consumption, production, CO₂ emissions, GDP, and population across countries and years using structured SQL queries. It aims to extract meaningful business insights and visualize patterns related to sustainability, efficiency, and economic growth.
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 
 - Analyze total and per capita CO₂ emissions across countries.
 - Examine trends in energy production and consumption by energy type.
